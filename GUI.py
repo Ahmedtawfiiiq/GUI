@@ -131,8 +131,6 @@ if __name__ == "__main__":
     fileObject.readFile()
     data = fileObject.sList
     #######################################################
-    descramblerData = data[177:185]
-    #######################################################
     mapperData = ""
     for line in data[2:10]:
         mapperData = mapperData + line + "\n" 
