@@ -126,7 +126,7 @@ class FileHandler:
 if __name__ == "__main__":
     #######################################################
     index = -1
-    fileObject = FileHandler("input.txt")
+    fileObject = FileHandler("output.txt")
     fileObject.openFile()
     fileObject.readFile()
     data = fileObject.sList
