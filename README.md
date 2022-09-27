@@ -1,5 +1,7 @@
 # GUI
 
+### for windows version use import os and os.startfile(path)
+      first generate your own .exe file
       run GUI.py file then this window will appear
 ![Screenshot from 2022-09-26 23-39-31](https://user-images.githubusercontent.com/82238829/192385791-2c790af8-398d-4c4e-82a4-61399f01e7ab.png)
 
